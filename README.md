@@ -19,7 +19,7 @@ DYHUBTHEBEST
 
 
 🔔 - **Support:** Compatible with all Executors
-ㅤ
+‎
 🌐 - **Discord** https://www.dss.gg/dyhub
-ㅤ
+‎
 📂 - **Logs:** All activity is logged and can be reviewed via Discord
