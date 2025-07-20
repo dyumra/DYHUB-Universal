@@ -10,13 +10,6 @@ Use the following loadstring to execute the  **DYHUB UNIVERSAL** Script:
 loadstring(game:HttpGet('https://raw.githubusercontent.com/dyumra/DYHUB-Universal/refs/heads/main/Key1%2B1.lua'))()
 ```
 
-## 🔑 - Access Key
-
-Please use the **Access Key** below to enable script functionality:
-```css
-DYHUBTHEBEST
-```
-
 
 🔔 - **Support:** Compatible with all Executors
 ㅤ
